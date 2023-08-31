@@ -3,7 +3,7 @@ export const Parent = styled.div`
     display:flex;
     padding-top:6.25rem ;
     padding-bottom:3.13rem;
-    padding-left: 19rem;
+    padding-left:10%;
 `;
 export const Img = styled.img`
 width: 20.09375rem;
